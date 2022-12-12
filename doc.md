@@ -54,7 +54,6 @@ Ao longo do projeto vamos colocar em prática o que estamos aprendendo ao longo 
 # 1. Apresentação
 
 A ideia principal deste projeto surgiu no contexto da adoção de animais por pessoas que desejam possuir um animal de estimação.  A União Internacional Protetora dos Animais (UIPA), apresentou uma pesquisa em que a procura por adoção de animais aumentou 400% durante o primeiro trimestre de 2020 e 
-
 em um outro levantamento feito pelo Radar Pet 2021, foi observado que, 30% dos animais de estimação foram adotados durante o período pandêmico, sendo 23% foram os primeiros bichinhos de seus donos.
 
 O Software que queremos desenvolver, além de ser um facilitador para pessoas encontrarem animais para adoção, tem como um dos principais objetivos incentivar a adoção de animais que muitas vezes não possuem um lar para morar.
