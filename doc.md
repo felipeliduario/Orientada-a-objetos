@@ -124,7 +124,7 @@ Como linguagens para esse projeto utilizamos o flutter para o desenvolvimento mo
 
 <a name="modelagem"></a>
 
-#3. Modelagem
+# 3. Modelagem
 
 ## 3.1. Visão de Negócio (Funcionalidades)
 
