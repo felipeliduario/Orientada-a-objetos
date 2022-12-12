@@ -10,7 +10,7 @@
 
 Professor:
 
-**Ilo Rivero **
+**Ilo Rivero**
 
 ---
 
